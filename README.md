@@ -14,7 +14,7 @@
 
 ## Задание 2. Создать Ingress и обеспечить доступ к приложениям снаружи кластера
 
-- [Манифест Deployment](https://github.com/garrkiss/kuber-network-1/blob/main/manifest/nginx-multitool-deployment.yaml)
-- [Манифест Service](https://github.com/garrkiss/kuber-network-1/blob/main/manifest/svc-nginx.yaml)
+- [Манифест Ingress](https://github.com/garrkiss/kuber-network-2/blob/main/manifest/task2/ingress.yaml)
 
-![Ссылка](https://github.com/garrkiss/kuber-network-1/blob/main/img/2.png)
+![Ссылка](https://github.com/garrkiss/kuber-network-2/blob/main/img/3.png)
+![Ссылка](https://github.com/garrkiss/kuber-network-2/blob/main/img/4.png)
