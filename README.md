@@ -16,5 +16,5 @@
 
 - [Манифест Ingress](https://github.com/garrkiss/kuber-network-2/blob/main/manifest/task2/ingress.yaml)
 
-![Ссылка](https://github.com/garrkiss/kuber-network-2/blob/main/img/3.png)
+![Ссылка](https://github.com/garrkiss/kuber-network-2/blob/main/img/5.png)
 ![Ссылка](https://github.com/garrkiss/kuber-network-2/blob/main/img/4.png)
